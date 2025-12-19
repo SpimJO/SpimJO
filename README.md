@@ -14,7 +14,7 @@
 ### 🥅 2025–2030 Goals
 - 🚀 Become a **Senior Full Stack Engineer**
 - 🧠 Master **System Design & Scalable Architectures**
-- ⛓️ Build real-world **Blockchain / Web3 applications**
+- ⛓️ Build real-world Web3 applications**
 - 🌍 Contribute to **Open Source Projects**
 - 💼 Work on globally impactful tech products
 
