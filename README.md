@@ -1,12 +1,12 @@
 # Hi 👋, I'm Jericho Canlas (DevEcho)
 
-💻 **Computer Science Student | Full Stack & MERN Developer**  
+💻 **Graduated Computer Science | Full Stack & MERN Developer**  
 🚀 Passionate about building scalable web apps and learning new technologies  
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently at **Socia**
+- 🔭 Currently working at **Socia**
 - 🌱 Working with **Frontend & Backend Development** and **Blockchain, MAchine Learning and Algorithms**
 - ⚡ problem-solving, APIs, and system design.
 - 🧑‍💻 freelancer(Capstones System) in evening, corporate in morning.
