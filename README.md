@@ -6,10 +6,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working at **Socia**
+- 🔭 Former working at **Socia** and currently at **Wireless Access For Health**
 - 🌱 Working with **Frontend & Backend Development** and **Blockchain, MAchine Learning and Algorithms**
 - ⚡ problem-solving, APIs, and system design.
-- 🧑‍💻 freelancer(Capstones System) in evening, corporate in morning.
+- 🧑‍💻 freelancer in evening, corporate in morning.
   
 
 ---
@@ -33,7 +33,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 
 **Tools & Platforms:**  
-Laragon • XAMPP • TablePlus
+Laragon • XAMPP • TablePlus • Ganache • Pinata • Metamask
 
 ---
 
